@@ -31,3 +31,9 @@ htmlcov/
 
 # Runtime
 *.aaf
+
+# Claude Code
+.claude/
+
+# Calibration cache
+.cli-anything-protools/
